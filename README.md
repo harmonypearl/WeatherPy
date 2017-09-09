@@ -1663,7 +1663,7 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](output/temp_lat.png)
 
 
 
@@ -1678,7 +1678,7 @@ plt.show()
 ```
 
 
-![png](output_6_0.png)
+![png](output/humid_lat.png)
 
 
 
@@ -1693,7 +1693,7 @@ plt.show()
 ```
 
 
-![png](output_7_0.png)
+![png](output/cloud_lat.png)
 
 
 
@@ -1708,5 +1708,5 @@ plt.show()
 ```
 
 
-![png](output_8_0.png)
+![png](output/wind_lat.png)
 
